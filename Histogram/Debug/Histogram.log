@@ -1,0 +1,11 @@
+﻿  Source.cpp
+  functions.cpp
+C:\Users\epour\Documents\GitHub\Histogram\Histogram\functions.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\epour\Documents\GitHub\Histogram\Histogram\functions.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\epour\Documents\GitHub\Histogram\Histogram\functions.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\epour\Documents\GitHub\Histogram\Histogram\functions.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\epour\Documents\GitHub\Histogram\Histogram\functions.cpp(171,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\epour\Documents\GitHub\Histogram\Histogram\functions.cpp(248,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\epour\Documents\GitHub\Histogram\Histogram\functions.cpp(64): warning C4715: 'bin_finder': not all control paths return a value
+  Histogram.vcxproj -> C:\Users\epour\Documents\GitHub\Histogram\Debug\Histogram.exe
